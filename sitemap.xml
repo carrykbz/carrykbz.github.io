@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://MakoyaLin.github.io/friends/index.html</loc>
+    
+    <lastmod>2021-12-25T07:49:32.309Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://MakoyaLin.github.io/404.html</loc>
     
     <lastmod>2021-12-01T05:17:15.519Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://MakoyaLin.github.io/contact/index.html</loc>
     
     <lastmod>2021-12-01T05:16:30.093Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://MakoyaLin.github.io/friends/index.html</loc>
-    
-    <lastmod>2021-12-01T05:15:58.184Z</lastmod>
     
   </url>
   
