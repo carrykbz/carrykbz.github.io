@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://MakoyaLin.github.io/"/>
-  <updated>2024-03-22T03:41:17.047Z</updated>
+  <updated>2024-04-19T02:53:18.674Z</updated>
   <id>https://MakoyaLin.github.io/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://MakoyaLin.github.io/2024/04/19/hello-world/"/>
+    <id>https://MakoyaLin.github.io/2024/04/19/hello-world/</id>
+    <published>2024-04-19T02:53:18.674Z</published>
+    <updated>2024-04-19T02:53:18.674Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>开摆</title>
+    <link href="https://MakoyaLin.github.io/2024/02/29/20240229/"/>
+    <id>https://MakoyaLin.github.io/2024/02/29/20240229/</id>
+    <published>2024-02-29T01:30:16.000Z</published>
+    <updated>2024-02-29T07:05:42.412Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;开摆&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://MakoyaLin.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="Life" scheme="https://MakoyaLin.github.io/tags/Life/"/>
+    
+  </entry>
   
   <entry>
     <title>傻鸟公司</title>
@@ -43,11 +92,11 @@
   </entry>
   
   <entry>
-    <title>开摆</title>
-    <link href="https://MakoyaLin.github.io/2024/02/29/20240229/"/>
-    <id>https://MakoyaLin.github.io/2024/02/29/20240229/</id>
-    <published>2024-02-29T01:30:16.000Z</published>
-    <updated>2024-02-29T07:05:42.412Z</updated>
+    <title>随便写点东西咯</title>
+    <link href="https://MakoyaLin.github.io/2024/02/27/123321/"/>
+    <id>https://MakoyaLin.github.io/2024/02/27/123321/</id>
+    <published>2024-02-27T01:30:16.000Z</published>
+    <updated>2024-04-19T03:53:40.827Z</updated>
     
     <summary type="html">
     
@@ -55,8 +104,8 @@
       
         
         
-          &lt;p&gt;开摆&lt;/p&gt;
-
+          &lt;p&gt;#你又在搞什么&lt;/p&gt;
+&lt;h2 id=&quot;真不知道说啥-想笑&quot;&gt;&lt;a href=&quot;#真不知道说啥-想笑&quot; class=&quot;headerlink&quot; title=&quot;真不知道说啥 想笑&quot;&gt;&lt;/a&gt;真不知道说啥 想笑&lt;/h2&gt;&lt;p&gt;###遇见了喜欢的女孩 咋办呀&lt;br&gt;好想把她追到手
         
       
     
